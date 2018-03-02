@@ -1,0 +1,3 @@
+AutoToja Client
+me.tojatta.clicker.ui.Cl
+me/tojatta/clicker/Tojatta$1

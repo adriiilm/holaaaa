@@ -1,0 +1,4 @@
+Cyanide Client
+us.cuck.core.module.modules.combat.AutoClicker
+us.cuck.core.Core
+us/cuck/core/module/ModuleManager

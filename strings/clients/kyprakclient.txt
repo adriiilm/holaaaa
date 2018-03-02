@@ -1,0 +1,2 @@
+Kyprak Client
+Kyprak.jar

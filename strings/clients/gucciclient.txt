@@ -1,0 +1,3 @@
+Gucci Client
+#xyz/gucciclient/values/BooleanValue
+xyz/gucciclient
